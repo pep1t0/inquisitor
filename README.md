@@ -1,20 +1,10 @@
 # inquisitor
 ARP spoofing &amp; sniffing 
 
+![inquisitor](https://user-images.githubusercontent.com/108338759/180659522-ca98080d-a240-455f-9488-cf8f6081f688.png)
 
 
 
-  _____                   _     _ _             
- |_   _|                 (_)   (_) |            
-   | |  _ __   __ _ _   _ _ ___ _| |_ ___  _ __ 
-   | | | '_ \ / _` | | | | / __| | __/ _ \| '__|
-  _| |_| | | | (_| | |_| | \__ \ | || (_) | |   
- |_____|_| |_|\__, |\__,_|_|___/_|\__\___/|_|   
-                 | |                            
-                 |_|                            
-
-Coded by daniel.requena@aol.com (2022)
-42 Barcelona
 
 usage: inquisitor.py [-h] [-i IFACE] [-v] IP_src IP_target
 
@@ -30,3 +20,4 @@ options:
   -i IFACE, --iface IFACE
                         Interface seleccionado
   -v, --verbose         Muetra todo el trafico interceptado PUERTO 21
+
