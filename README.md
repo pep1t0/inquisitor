@@ -1,10 +1,6 @@
 # inquisitor
 ARP spoofing &amp; sniffing 
 
-![inquisitor]()
-
-
-
 
 usage: inquisitor.py [-h] [-i IFACE] [-v] IP_src IP_target
 
