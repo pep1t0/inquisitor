@@ -1,7 +1,7 @@
 # inquisitor
 ARP spoofing &amp; sniffing 
 
-![inquisitor](https://user-images.githubusercontent.com/108338759/180659522-ca98080d-a240-455f-9488-cf8f6081f688.png)
+![inquisitor]()
 
 
 
